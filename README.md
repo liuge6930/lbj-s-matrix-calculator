@@ -15,3 +15,9 @@ lbj,s not mine i m so fxxking jerk and bastard
 初级猿一只，发现bug请向我（不是我！！）反馈，马上修改~qAq
 
 ## yeahyeah
+
+## 编译为exe文件时有闪退状况，我们做了一个艰难的决定，那就是我们无能为力qwq
+
+开个玩笑。。。。。。
+
+事实上，当你打开matrix.exe文件时，前面的填写行数列数都很正常，填写元素时也正常，然而当你输出结果时就会闪退
