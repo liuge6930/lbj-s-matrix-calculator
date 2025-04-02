@@ -12,6 +12,6 @@ lbj,s not mine i m so fxxking jerk and bastard
 3.	支持分数（(-)m/n）和小数输入
 （空格数目错误、杂符号、分母为0会提示重新输入该行）
 4.	随意输入行列数目，支持线性相关的多个方程 
-初级猿一只，发现bug请向我反馈，马上修改~qAq
+初级猿一只，发现bug请向我（不是我！！）反馈，马上修改~qAq
 
 ## yeahyeah
