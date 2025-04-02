@@ -1,9 +1,9 @@
 # lbj-s-matrix-calculator
 lbj,s not mine i m so fxxking jerk and bastard
 
-转载自lbj
+# 转载自lbj
 
-BJ的C语言增广矩阵计算器
+# BJ的C语言增广矩阵计算器
 
 功能展示
  
@@ -14,4 +14,4 @@ BJ的C语言增广矩阵计算器
 4.	随意输入行列数目，支持线性相关的多个方程 
 初级猿一只，发现bug请向我反馈，马上修改~qAq
 
-yeahyeah
+## yeahyeah
