@@ -25,4 +25,9 @@ lbj,s not mine i m so fxxking jerk and bastard
 **那么管理员权限呢？？？？？？？？？？？？？？？？？？？？**
 
 是的，只要我们切换为管理员权限，它就
-# 依旧不能打开
+# 依旧闪退。。。。。。。
+
+2025.4.2
+
+# 孩子们，原来加入“system("pause");”就可以啦！！！！！
+这个不是bug，是windows的特性，似乎sleep也可以解决
